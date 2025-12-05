@@ -27,10 +27,8 @@ param5 = 100 #  y-rotation (paper), y- rotation (alex) (Nm/rad)
 param6 = 1 #  x-rotation (paper), z- rotation (alex) (Nm/rad)
 
 
-shift = 1.4 # mm
-# shift =  0 # mm
-# shift = -3.4 # mm
-# shift =  -3.5 # mm
+shift = 0 # mm
+
 
 chosen_option = "KET12" # options = ["RJ45", "USB", "KET8", "KET12"]
 
