@@ -14,4 +14,4 @@ This MuJoCo Simulation is created to simulate structured compliant grippers in d
 The sim.py contains the simulation control. The robot_15.xml and scene_15.xml contain the model for the straight gripper design. The robot_chamf.xml and scene_chamf.xml contain the model for the chamfered gripper design.
 The asset directory contains all model assets for the simulation. It needs to be in the same directory as the other files.
 
-
+Based on the work of Alexander Rother
